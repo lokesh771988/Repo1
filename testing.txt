@@ -1,0 +1,14 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 5298-679F
+
+ Directory of C:\Users\GorantlL\OneDrive - HP Inc\Documents\DemoProject
+
+04/01/2022  03:27 AM    <DIR>          .
+04/01/2022  03:27 AM    <DIR>          ..
+04/01/2022  03:27 AM                 0 testing.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  101,283,794,944 bytes free
+
+
+
+Hello lokesh
